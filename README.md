@@ -1,3 +1,1 @@
-A simple and user-friendly Age Calculator application to calculate age based on the date of birth.
-This tool helps determine the exact age in years, months, and days.
-
+A fully functional calculator application for performing basic arithmetic operations like addition, subtraction, multiplication, and division. It provides an intuitive interface for quick and accurate calculations.
